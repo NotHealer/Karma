@@ -5,6 +5,7 @@ Type in Ssh:
 ```pip install discord.py && pip install colorama```
 
 Works Best With replit.com
+
 ```
  _                       
 | |_ ___ ___ _____ ___ ! 
@@ -17,3 +18,4 @@ Works Best With replit.com
 [4] Mass Dm 
 [5] Exit Script
 ```
+Fork on replit : https://replit.com/@MrHealer/Karma
