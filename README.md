@@ -23,10 +23,6 @@ Works Best With replit.com
 [4] Mass Dm 
 [5] Exit Script
 ```
-img[src$="centerme"] {
-  display:block;
-  margin: 0 auto;
-}
 
 <p align="center">
   <img src="(https://www.nicepng.com/png/detail/346-3464278_5-5c-5s-iphone-wallpaper-green-karma-fond.png">
