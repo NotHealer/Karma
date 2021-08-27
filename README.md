@@ -24,9 +24,7 @@ Works Best With replit.com
 [5] Exit Script
 ```
 
-<p align="center">
-  <img src="(https://www.nicepng.com/png/detail/346-3464278_5-5c-5s-iphone-wallpaper-green-karma-fond.png">
-</p>
+![alt text](https://www.nicepng.com/png/detail/346-3464278_5-5c-5s-iphone-wallpaper-green-karma-fond.png)
 
 
 Test Karma : https://replit.com/@MrHealer/Karma
