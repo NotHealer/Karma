@@ -2,8 +2,8 @@
 Discord bot that take karma.
 
 Type in Ssh:
-```git clone https://github.com/NotHealer/Karma.git```
-```cd Karma```
+```git clone https://github.com/NotHealer/Karma.git```\n
+```cd Karma``` \n
 ```pip install discord.py && pip install colorama```
 ```python3 karma.py```
 
